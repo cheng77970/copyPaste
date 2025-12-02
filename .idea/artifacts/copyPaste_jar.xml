@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="copyPaste:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/copyPaste_jar</output-path>
+    <root id="archive" name="copyPaste.jar">
+      <element id="module-output" name="copyPaste" />
+    </root>
+  </artifact>
+</component>
